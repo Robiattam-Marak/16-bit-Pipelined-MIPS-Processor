@@ -1,0 +1,61 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.pb
+*.backup.*
+*.cache
+*.hw
+*.sim
+*.runs
+*.Xil
+*.wdb
+*.wcfg
+*.tmp
+*.xml
+
+# Generated folders
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.Xil/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+
+# Temporary
+*.swp
+*.bak
+
+# Reports
+*.rpt
+
+# DCP
+*.dcp
+
+# Bitstream
+*.bit
+
+# ELF
+*.elf
+
+# Memory initialization
+*.mem~
+
+# Waveforms
+*.vcd
+
+# Tcl history
+vivado_pid*.str
+
+# Misc
+*.zip
